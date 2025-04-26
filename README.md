@@ -4,8 +4,8 @@
   <p align="center">
   <div style="display: flex; justify-content: space-between;">
     <img src="resources/imgr/1.png" width="33%">
-    <img src="resources/imgr/2.png" width="30%">
-    <img src="resources/imgr/3.png" width="33%">
+    <img src="resources/imgr/2.png" width="32%">
+    <img src="resources/imgr/3.png" width="30%">
   </div>
   
 # Разработка игры «Тетрис»
