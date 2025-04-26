@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://i.ibb.co/4R6bJ4p/icon1.png">
 </p>
-  <img src="./img/1.png" width="60%" height="auto">
+  <img src="resources/imgr/1.png" width="60%" height="auto">
   <img src="./img/2.png" width="60%" height="auto">
   <img src="./img/3.png" width="60%" height="auto">
   
