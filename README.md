@@ -3,9 +3,8 @@
 </p>
   <p align="center">
   <div style="display: flex; justify-content: space-between;">
-    <img src="resources/imgr/1.png" width="33%" height="520px">
-    <img src="resources/imgr/2.png" width="33%" height="520px">
-    <img src="resources/imgr/3.png" width="33%" height="520px">
+    <img src="resources/imgr/1.png" height="520px">
+    <img src="resources/imgr/2.png" height="520px">
   </div>
   </p>
   
