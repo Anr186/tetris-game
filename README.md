@@ -1,7 +1,12 @@
 <p align="center">
   <img src="https://i.ibb.co/4R6bJ4p/icon1.png">
 </p>
-  <img src="resources/imgr/1.png" width="15%" height="auto"><img src="resources/imgr/2.png" width="15%" height="auto"><img src="resources/imgr/3.png" width="15%" height="auto">
+  <p align="center">
+  <div style="display: flex; justify-content: space-between;">
+    <img src="resources/imgr/1.png" width="20%">
+    <img src="resources/imgr/2.png" width="20%">
+    <img src="resources/imgr/3.png" width="20%">
+  </div>
   
 # Разработка игры «Тетрис»
 Техническое задание
